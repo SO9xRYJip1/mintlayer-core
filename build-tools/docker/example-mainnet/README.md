@@ -31,3 +31,5 @@ commenting out services that you won't need. Edit values in `.env` according to 
     ```
     docker compose run --rm wallet-cli
     ```
+
+<!-- Auto-update: 2025-10-09T23:12:04.041460 -->
