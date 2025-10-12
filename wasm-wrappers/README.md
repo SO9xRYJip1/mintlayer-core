@@ -104,3 +104,5 @@ And then run (in the wasm Cargo.toml directory):
 ### Mintlayer WASM Wrappers Function API documentation
 
 [You can find the public functions documentations here](WASM-API.md)
+
+<!-- Auto-update: 2025-10-12T08:12:32.189630 -->
